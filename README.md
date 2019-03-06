@@ -40,6 +40,9 @@ https://httpie.org
 
 
 Checar log da função que foi deployada no AWS Lambda:
+
+
+
 serverless logs --function createMessage
 
 
