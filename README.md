@@ -27,6 +27,9 @@ Comando get do webservice REST criado no Node e exposto pelo api gateway
 http GET https://mesx25omj0.execute-api.sa-east-1.amazonaws.com/dev/messages
 
 Fazer post de mensagem em banco de dados Firebase no GCP(Tirado do ar por razões óbvias):
+
+
+
 http POST https://mesx25omj0.execute-api.sa-east-1.amazonaws.com/dev/messages username=conrad text="Dominando Firebase - GCP e AWS"
 
 
