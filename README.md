@@ -1,4 +1,4 @@
-# serverless-node-aws-gcp-firebase
+# Projeto Serverless que usa Node como framework backend, AWS Lambda como Function as a Service, API Gateway para expor as apis e como trigger da função Lambda, integrando ao BD NOSQL Firebase deployado em projeto no Google Cloud
 
 
 
